@@ -1,0 +1,19 @@
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local del editor
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
